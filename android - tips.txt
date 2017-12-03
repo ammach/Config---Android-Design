@@ -1,0 +1,21 @@
+origanization : http://alexzh.com/tutorials/how-to-store-layouts-in-different-folders-in-android-project/
+
+storage ==> https://github.com/snatik/android-storage
+palette colors ==> http://www.truiton.com/2015/05/android-palette-pick-colors-images/
+fonts ==> https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml.html
+animation Lottie ==> http://airbnb.io/lottie/android/android.html
+preferences ==> https://github.com/codevscolor/MaterialPreference/blob/master/readme.md
+file downloader ==> https://github.com/MindorksOpenSource/PRDownloader/blob/master/README.md
+sqlite database Room + Stetho ==> https://android.jlelse.eu/android-architecture-components-room-custom-types-ad6a477004e0
+Background Tasks Rxjava ==> http://www.zoftino.com/rxjava-use-cases-android
+Dependency Injection ==> Butterknife
+Intro ==> 
+ProgressBar ==>
+compress Images ==> https://github.com/zetbaitsu/Compressor
+Form Vaidation ==> https://github.com/WellingtonCosta/convalida
+Rest ==> Retrofit
+Runtime Permissions ==> 
+Dynamic Themes ==> https://github.com/52inc/Scoops
+animated warnings/notifications for Android ==> https://github.com/emre1512/Noty
+custom Toasts ==> 
+Link Preview ==> https://github.com/LeonardoCardoso/Android-Link-Preview
