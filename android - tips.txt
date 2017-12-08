@@ -60,7 +60,7 @@ file downloader ==> https://github.com/MindorksOpenSource/PRDownloader/blob/mast
 sqlite database Room + Stetho ==> https://android.jlelse.eu/android-architecture-components-room-custom-types-ad6a477004e0
 Background Tasks Rxjava ==> http://www.zoftino.com/rxjava-use-cases-android
 Dependency Injection ==> Butterknife
-Intro ==> 
+Intro ==>        + Type Writer effect:https://github.com/hanks-zyh/HTextView
 ProgressBar ==>
 compress Images ==> https://github.com/zetbaitsu/Compressor
 Form Vaidation ==> https://github.com/WellingtonCosta/convalida
