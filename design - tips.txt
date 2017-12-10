@@ -19,3 +19,4 @@ http://fontjoy.com/  ===> https://archetypeapp.com/
 https://typeanything.io/        https://beta.typenugget.com/
 
 https://webaim.org/resources/contrastchecker/
+http://pinetools.com/monochromatic-colors-generator
