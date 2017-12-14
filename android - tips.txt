@@ -70,3 +70,21 @@ Dynamic Themes ==> https://github.com/52inc/Scoops
 animated warnings/notifications for Android ==> https://github.com/emre1512/Noty
 custom Toasts ==> 
 Link Preview ==> https://github.com/LeonardoCardoso/Android-Link-Preview
+
+
+
+Extra Libraries ==>
+
+https://github.com/iammert/ExpandableLayout
+https://github.com/zagum/Android-SwitchIcon
+https://github.com/sharish/ShimmerRecyclerView
+https://github.com/willowtreeapps/spruce-android
+https://github.com/patrickfav/Dali?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5130
+https://github.com/florent37/DiagonalLayout/
+
+
+
+Boilerplate libraries ==>
+
+https://github.com/f2prateek/dart
+https://github.com/frankiesardo/icepick
