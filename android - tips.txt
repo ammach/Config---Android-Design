@@ -69,6 +69,7 @@ Runtime Permissions ==>
 Dynamic Themes ==> https://github.com/52inc/Scoops
 animated warnings/notifications for Android ==> https://github.com/emre1512/Noty
 custom Toasts ==> 
+dialogs ==> https://code.tutsplus.com/tutorials/showing-material-design-dialogs-in-an-android-app--cms-30013?utm_source=twitter&utm_medium=social&utm_campaign=social_twtr_tuts_code
 Link Preview ==> https://github.com/LeonardoCardoso/Android-Link-Preview
 
 
