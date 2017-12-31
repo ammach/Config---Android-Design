@@ -1,0 +1,8 @@
+Refactoring Deeply Nested Code ==> http://www.drdobbs.com/architecture-and-design/refactoring-deeply-nested-code/231500074
+Java 8 Optional Anti-pattern ==> http://www.byconvention.com/blog/2016/2/25/java-8-optional-anti-pattern
+Design patterns for nested loops ==> http://socialgeekness.blogspot.com/2012/05/design-patterns-for-nested-loops.html?m=1
+Refactoring arrow (nested if statement) anti-patterns ==> http://code.scottshipp.com/2013/08/13/refactoring-arrow-nested-if-statement-anti-patterns/
+Refactoring Deeply Nested if Statements ==> https://software-talk.org/blog/2014/09/refactoring-deeply-nested-if-statements/
+Anti-If: The missing patterns ==> https://code.joejag.com/2016/anti-if-the-missing-patterns.html
+java 8 refactoring ==> https://www.youtube.com/watch?v=2xOtyGUTpQU
+design patterns ==> https://www.javabrahman.com/design-patterns/gof-gang-four-design-patterns/ 
