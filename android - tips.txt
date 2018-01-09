@@ -71,8 +71,8 @@ animated warnings/notifications for Android ==> https://github.com/emre1512/Noty
 custom Toasts ==> 
 dialogs ==> https://code.tutsplus.com/tutorials/showing-material-design-dialogs-in-an-android-app--cms-30013?utm_source=twitter&utm_medium=social&utm_campaign=social_twtr_tuts_code
 Link Preview ==> https://github.com/LeonardoCardoso/Android-Link-Preview
-
-
+Intelligent constants ==> https://android.jlelse.eu/intelligent-constants-in-your-android-app-fc99ecb4e78f
+Designing for offline ==> https://blog.wikimedia.org/2018/01/04/designing-for-offline-on-android/
 
 Extra Libraries ==>
 
