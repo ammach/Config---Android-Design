@@ -4,5 +4,12 @@ Design patterns for nested loops ==> http://socialgeekness.blogspot.com/2012/05/
 Refactoring arrow (nested if statement) anti-patterns ==> http://code.scottshipp.com/2013/08/13/refactoring-arrow-nested-if-statement-anti-patterns/
 Refactoring Deeply Nested if Statements ==> https://software-talk.org/blog/2014/09/refactoring-deeply-nested-if-statements/
 Anti-If: The missing patterns ==> https://code.joejag.com/2016/anti-if-the-missing-patterns.html
+
+
 java 8 refactoring ==> https://www.youtube.com/watch?v=2xOtyGUTpQU
+                       https://www.exclamationlabs.com/blog/refactoring-for-java-8-streams/amp/
+					   https://www.selikoff.net/2016/06/25/refactoring-legacy-code-for-java-8/
+					   https://metabroadcast.com/blog/java-8-refactoring
+					   https://blog.jetbrains.com/idea/2016/12/intellij-idea-inspection-settings-for-refactoring-to-java-8/
+
 design patterns ==> https://www.javabrahman.com/design-patterns/gof-gang-four-design-patterns/ 
